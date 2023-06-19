@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<personList xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0">
+    <person>
+        <name>John</name>
+        <age>30</age>
+    </person>
+</personList>

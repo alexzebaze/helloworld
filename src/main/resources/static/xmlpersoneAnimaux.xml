@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE personList>
+<personList>
+    <person>
+        <name>John</name>
+        <age>30</age>
+        <animaux>
+            <animal>
+                <comportement>marcher</comportement>
+                <crie>aboi</crie>
+            </animal>
+            <animal>
+                <comportement>voler</comportement>
+                <crie>chanter</crie>
+            </animal>
+        </animaux>
+    </person>
+    <person>
+        <name>Jane</name>
+        <age>25</age>
+        <animaux>
+            <animal>
+                <comportement>marcher</comportement>
+                <crie>aboi</crie>
+            </animal>
+            <animal>
+                <comportement>voler</comportement>
+                <crie>chanter</crie>
+            </animal>
+        </animaux>
+    </person>
+</personList>
+
