@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<listOrg type="structures">
+	<org status="OLD" type="laboratory" xml:id="struct-1060274">
+		<idno type="RNSR">200017843Z</idno>
+		<idno type="ROR">011xg1225</idno>
+		<orgName>Montpellier Interdisciplinary center on Sustainable Agri-food systems (Social and nutritional sciences)</orgName>
+		<orgName type="acronym">UMR MoISA</orgName>
+		<date type="start">2021-01-01</date>
+		<date type="end">2021-12-31</date>
+		<desc>
+			<address>
+				<addrLine>INRAE - Campus Supagro Montpellier2 place Viala34060 MONTPELLIER CEDEX 2</addrLine>
+				<country key="FR"/>
+			</address>
+		</desc>
+		<listRelation>
+			<relation active="#struct-11574" type="direct"/>
+			<relation active="#struct-67872" type="direct"/>
+			<relation active="#struct-455595" type="direct"/>
+			<relation active="#struct-302069" type="indirect"/>
+			<relation active="#struct-577435" name="UMR1110" type="direct"/>
+			<relation active="#struct-1090073" type="direct"/>
+			<relation active="#struct-1042499" type="indirect"/>
+		</listRelation>
+	</org>
+	<org status="OLD" type="regrouplaboratory" xml:id="struct-534354">
+		<idno type="IdRef">113196377</idno>
+		<orgName>Université de Nantes - UFR des Sciences et Techniques des Activités Physiques et Sportives</orgName>
+		<orgName type="acronym">UFR STAPS</orgName>
+		<date type="end">2021-12-31</date>
+		<desc>
+			<address>
+				<addrLine>25 bis, boulevard Guy Mollet BP 72206 44322 Nantes Cedex 3</addrLine>
+				<country key="FR"/>
+			</address>
+			<ref type="url">http://www.staps.univ-nantes.fr/accueil/</ref>
+		</desc>
+		<listRelation>
+			<relation active="#struct-93263" name="93263" type="direct"/>
+		</listRelation>
+	</org>
+	<org status="INCOMING" type="institution" xml:id="struct-563371">
+		<orgName>Fédération Française d'Equitation</orgName>
+		<orgName type="acronym">FFE</orgName>
+		<desc>
+			<address>
+				<country key="FR"/>
+			</address>
+		</desc>
+	</org>
+	<org status="VALID" type="institution" xml:id="struct-200225">
+		<orgName>Institut Français du Cheval et de l'Equitation [Saumur]</orgName>
+		<desc>
+			<address>
+				<addrLine>Terrefort, BP 207, F-49411 Saumur</addrLine>
+				<country key="FR"/>
+			</address>
+			<ref type="url">http://www.ifce.fr/</ref>
+		</desc>
+	</org>
+	<org status="VALID" type="institution" xml:id="struct-11574">
+		<idno type="ISNI">0000000121539871</idno>
+		<idno type="ROR">05kpkpg04</idno>
+		<orgName>Centre de Coopération Internationale en Recherche Agronomique pour le Développement</orgName>
+		<orgName type="acronym">Cirad</orgName>
+		<date type="start">1984-06-01</date>
+		<desc>
+			<address>
+				<addrLine>Siège 42, rue Scheffer 75116 Paris</addrLine>
+				<country key="FR"/>
+			</address>
+			<ref type="url">http://www.cirad.fr</ref>
+		</desc>
+	</org>
+	<org status="VALID" type="institution" xml:id="struct-67872">
+		<orgName>Institut de Recherche pour le Développement</orgName>
+		<orgName type="acronym">IRD</orgName>
+		<desc>
+			<address>
+				<addrLine>SiègeLe Sextant 44, bd de DunkerqueCS 9000913572 Marseille cedex 02</addrLine>
+				<country key="FR"/>
+			</address>
+			<ref type="url">http://www.ird.fr/</ref>
+		</desc>
+	</org>
+	<org status="VALID" type="institution" xml:id="struct-455595">
+		<orgName>Centre International de Hautes Etudes Agronomiques Méditerranéennes - Institut Agronomique Méditerranéen de Montpellier</orgName>
+		<orgName type="acronym">CIHEAM-IAMM</orgName>
+		<desc>
+			<address>
+				<addrLine>3191 route de Mende, 34093 Montpellier cedex 5</addrLine>
+				<country key="FR"/>
+			</address>
+			<ref type="url">http://www.iamm.ciheam.org/</ref>
+		</desc>
+		<listRelation>
+			<relation active="#struct-302069" type="direct"/>
+		</listRelation>
+	</org>
+	<org status="VALID" type="regroupinstitution" xml:id="struct-302069">
+		<orgName>Centre International de Hautes Études Agronomiques Méditerranéennes</orgName>
+		<orgName type="acronym">CIHEAM</orgName>
+		<date type="start">1962-01-01</date>
+		<desc>
+			<address>
+				<addrLine>11, rue Newton - 75116 Paris</addrLine>
+				<country key="FR"/>
+			</address>
+			<ref type="url">http://www.ciheam.org/</ref>
+		</desc>
+	</org>
+	<org status="VALID" type="institution" xml:id="struct-577435">
+		<orgName>Institut National de Recherche pour l’Agriculture, l’Alimentation et l’Environnement</orgName>
+		<orgName type="acronym">INRAE</orgName>
+		<date type="start">2020-01-01</date>
+		<desc>
+			<address>
+				<country key="FR"/>
+			</address>
+		</desc>
+	</org>
+	<org status="VALID" type="institution" xml:id="struct-1090073">
+		<orgName>Institut Agro - Montpellier SupAgro</orgName>
+		<date type="start">2020-01-01</date>
+		<date type="end">2021-12-31</date>
+		<desc>
+			<address>
+				<addrLine>2, place Viala - Montpellier</addrLine>
+				<country key="FR"/>
+			</address>
+			<ref type="url">https://www.institut-agro-montpellier.fr/</ref>
+		</desc>
+		<listRelation>
+			<relation active="#struct-1042499" type="direct"/>
+		</listRelation>
+	</org>
+	<org status="VALID" type="regroupinstitution" xml:id="struct-1042499">
+		<orgName>Institut national d'enseignement supérieur pour l'agriculture, l'alimentation et l'environnement</orgName>
+		<orgName type="acronym">Institut Agro</orgName>
+		<date type="start">2020-01-01</date>
+		<desc>
+			<address>
+				<country key="FR"/>
+			</address>
+			<ref type="url">https://www.institut-agro.fr</ref>
+		</desc>
+	</org>
+	<org status="OLD" type="institution" xml:id="struct-93263">
+		<idno type="IdRef">026403447</idno>
+		<orgName>Université de Nantes</orgName>
+		<orgName type="acronym">UN</orgName>
+		<date type="end">2021-12-31</date>
+		<desc>
+			<address>
+				<addrLine>1, quai de Tourville - BP 13522 - 44035 Nantes cedex 1</addrLine>
+				<country key="FR"/>
+			</address>
+			<ref type="url">http://www.univ-nantes.fr/</ref>
+		</desc>
+	</org>
+</listOrg>
